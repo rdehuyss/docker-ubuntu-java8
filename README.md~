@@ -1,9 +1,0 @@
-docker-ubuntu-java8
-============================
-
-Dockerfile for VDAB based on Ubuntu 14.04.2 LTS with ssh login possibility and Java 8 installed
-
-### Installation
-```
-docker pull rdehuyss/docker-ubuntu-java8
-```
